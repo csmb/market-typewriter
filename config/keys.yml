@@ -1,0 +1,7 @@
+---
+- gpio: 1
+  track: "/Users/maximeliron/Desktop/test.ogg"
+- gpio: 2
+  track: "track1.mp3"
+- gpio: 3
+  track: "track1.mp3"
